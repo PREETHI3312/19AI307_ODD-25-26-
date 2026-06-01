@@ -10,13 +10,13 @@ To implement composition in Java by creating a Library class that owns and manag
 ```
 ## ALGORITHM :
 ```
-Start the program
-Create a Book class with attributes
-Create a Library class
-Inside Library, create Book objects (composition)
-Store books in a collection
-Display all book details
-Stop program
+1.Start the program
+2.Create a Book class with attributes
+3.Create a Library class
+4.Inside Library, create Book objects (composition)
+5.Store books in a collection
+6.Display all book details
+7.Stop program
 ```
 
 
