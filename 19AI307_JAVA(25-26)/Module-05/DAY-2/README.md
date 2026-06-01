@@ -11,6 +11,7 @@ To write a Java program to serialize an ArrayList of Student objects into a file
 ```
 
 ## ALGORITHM :
+```
 1.Start the program
 2.Create a Student class implementing Serializable
 3.Create an ArrayList<Student>
@@ -21,7 +22,7 @@ To write a Java program to serialize an ArrayList of Student objects into a file
 8.Close streams
 9.Stop program
 
-
+```
 
 
 
