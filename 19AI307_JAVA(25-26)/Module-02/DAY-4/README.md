@@ -13,13 +13,13 @@ To write a Java program demonstrating variable scope using a static variable and
 ## ALGORITHM :
 ```
 1.Start the program
-Create a class with a static variable
-Read input value from user
-Assign value to static variable
-Access static variable using class name
-Access static variable using object reference
-Display both outputs
-Stop program
+2.Create a class with a static variable
+3.Read input value from user
+4.Assign value to static variable
+5.Access static variable using class name
+6.Access static variable using object reference
+7.Display both outputs
+8.Stop program
 ```
 
 
