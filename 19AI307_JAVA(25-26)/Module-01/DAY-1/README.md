@@ -24,11 +24,10 @@ To write a Java program that accepts a user’s name as input and displays a gre
 
 ## PROGRAM:
  ```
-/*
 Program to implement variables and Operators using Java
 Developed by: PREETHI A K
 RegisterNumber:  212223230156
-*/
+
 ```
 
 ## Sourcecode.java:
