@@ -1,19 +1,25 @@
 # Ex.No:2(B) METHODS
 
 ## QUESTION:
+```
 Create a method printName(String name) that gets input from the user for the string and prints "Hello, " followed by the name passed.
+```
 
 ## AIM:
+```
 To write a Java program using a method that takes a string parameter and prints a greeting message.
 
+```
 ## ALGORITHM :
-Start the program
-Import java.util.Scanner package
-Create a method printName(String name)
-Inside the method, print "Hello, " + name
-In main method, read user input
-Call printName() method with input value
-Stop the program	
+```
+1.Start the program
+2.Import java.util.Scanner package
+3.Create a method printName(String name)
+4.Inside the method, print "Hello, " + name
+5.In main method, read user input
+6.Call printName() method with input value
+7.Stop the program
+```
 
 
 
