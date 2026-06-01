@@ -67,9 +67,9 @@ public class FibonacciSeries {
 
 
 ## OUTPUT:
-```
+
 <img width="785" height="247" alt="image" src="https://github.com/user-attachments/assets/b37dbeeb-bac2-48cc-afa8-26bcfd0ec83b" />
-```
+
 
 
 
